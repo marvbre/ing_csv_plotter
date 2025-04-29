@@ -1,0 +1,113 @@
+Salary:
+  - Zahltag
+  - Entgelt
+  - Gehalt
+  - Lohn
+  - Rente
+
+PartnerExchange:
+  - INSTANT TRANSFER
+
+Groceries:
+  - rewe
+  - edeka
+  - lidl
+  - aldi
+
+Rent:
+  - miete
+  - rent
+
+Power:
+  - Strom
+  - Enercity
+  - RWE
+  - Eon
+
+Internet & TV:
+  - Telekom
+  - ZDF
+
+Insurance:
+  - Versicherung
+  - gesetzlich
+  - privat
+  - Haftpflicht
+  - Krankenversicherung
+  - Haftpflichtversicherung
+
+Sports:
+  - Fitness
+  - fußball
+  - Tennis
+  - schwimmen
+  - Sport
+  - Golf
+  - Ski
+
+Streaming:
+  - prime
+  - netflix
+  - spotify
+  - wow
+  - disney
+
+Restaurants: 
+  - restaurant
+  - pizzeria
+  - cafe
+  - burger
+  - sushi
+  - essen
+  - takeaway
+  - lieferando
+
+Leisure:
+  - bar
+  - cinema
+  - kino
+  - club
+  - film
+  - lounge
+  
+Shopping:
+  - h&m
+  - dm
+  - baumarkt
+  - ikea
+
+OnlineShopping:
+  - Einkauf
+  - Amazon
+  - AMAZON
+  - AMZN
+  - Zalando
+  - eBay
+  - Ebay
+  - steam
+
+Investments:
+  - wertpapierkauf
+  - dip
+  - invest
+  - etf
+  - broker
+  - notgroschen
+
+Mobility:
+  - Bus
+  - Bahn
+  - taxi
+  - flixbus
+  - flughafen
+  - zug
+  - carsharing
+  - DB
+  - Vertrieb
+  - Uber
+
+
+Cash:
+  - Bargeldauszahlung
+
+VariableCosts: [ ]
